@@ -6,7 +6,7 @@ You can easily exclude/include certain background image declarations using meta 
 
 # Install
 
-### Latest Version: 1.0.1
+### Latest Version: 1.0.2
 
 `npm install gulp-css-spriterm`
 

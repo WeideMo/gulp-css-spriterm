@@ -35,7 +35,8 @@ var spriter = function(options) {
 		// ('implicit'|'explicit')
 		'includeMode': 'implicit',
 		// The path and file name of where we will save the sprite sheet
-		'spriteSheet': 'spritesheet.png',
+		// 'spriteSheet': 'spritesheet.png',
+		 'spriteSheet': '',
 		// Because we don't know where you will end up saving the CSS file at this point in the pipe,
 		// we need a litle help identifying where it will be.
 		'pathToSpriteSheetFromCSS': 'spritesheet.png',
