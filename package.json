@@ -1,0 +1,46 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/WeideMo/gulp-css-spriterm/issues"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.3",
+    "css": "^2.1.0",
+    "extend": "^2.0.0",
+    "fs-extra": "^0.14.0",
+    "gulp-util": "^3.0.1",
+    "spritesmith": "^1.0.3",
+    "through2": "^0.6.2"
+  },
+  "description": "Sprite Sheet Generation from CSS source files. The best and different approach to sprite sheets.",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-as-promised": "^4.1.1",
+    "gulp": "^3.8.10",
+    "mocha": "^2.1.0"
+  },
+  "homepage": "https://github.com/WeideMo/gulp-css-spriterm",
+  "keywords": [
+    "css",
+    "gulp",
+    "gulpplugin",
+    "gulpfriendly",
+    "sprite",
+    "spritesheet",
+    "sass",
+    "less"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gulp-css-spriterm",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeideMo/gulp-css-spriterm.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.1"
+}
